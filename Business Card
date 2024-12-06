@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <div class="card border-blue">
+            <img
+                src="https://scontent.fabb1-3.fna.fbcdn.net/v/t39.30808-1/440430088_755231600028645_8563473973606530269_n.jpg?stp=c0.0.960.960a_dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=50d2ac&_nc_eui2=AeHxQ29MlqX3hdJNUBcjBibI8VaP1aldVlHxVo_VqV1WUVdrDKxiFDiduc6TbYNKEVS--cwYPMKU7805_rqrM17m&_nc_ohc=gdapEmenk6kQ7kNvgGFvhpk&_nc_zt=24&_nc_ht=scontent.fabb1-3.fna&_nc_gid=ANTzdHti-gN30KYtTMuRO-s&oh=00_AYBc5-wiSGz3CVfhOwBDcuR6ARsCAS_ATW4PVVfqlInggg&oe=6758DF68"
+                alt="Ezra is smiling while looking somewhere else"
+                class="avatar">
+            <div class="border-blue">
+                    <h3>Nsonwu Ezra Nzubechi</h3>
+                    <p>Full stack developer</p>
+                    <h4>Imo state, Nigeria</h4>
+            </div>
+        </div>
+    </body>
+</html>
